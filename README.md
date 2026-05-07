@@ -1,25 +1,20 @@
-<h1 align="center">Salut 👋, moi c'est Aya BAHRAOUI</h1>
-<h3 align="center">🎓 Élève ingénieure — Data Science · Big Data · Intelligence Artificielle</h3>
-<h4 align="center">ENSIASD · Taroudant, Maroc</h4>
-
-<br/>
+<h1 align="center">Aya BAHRAOUI</h1>
+<h3 align="center">Engineering Student — Data Science · Big Data · Artificial Intelligence</h3>
+<p align="center">ENSIASD · Taroudant, Morocco</p>
 
 ---
 
-## 👩‍💻 À propos de moi
+## About Me
 
-- 🎓 2ème année cycle ingénieur en **Sciences des Données, Big Data et IA** à l'ENSIASD
-- 🔭 Spécialisée en **Machine Learning**, **Computer Vision** et **Deep Learning**
-- 💼 Expérience en déploiement de modèles ML end-to-end sur des problèmes réels
-- 🌱 Actuellement en train d'explorer la **GenAI** et les **LLMs**
-- 📫 Me contacter : **bahraouiaya71@gmail.com**
-- 🌍 Basée à **Casablanca, Maroc**
+I am a second-year engineering student specializing in Data Science, Big Data and Artificial Intelligence at ENSIASD. My work focuses on building end-to-end machine learning pipelines, computer vision systems, and deploying AI applications on real-world problems.
+
+Currently looking for a 2–3 month internship in AI or Data Science.
 
 ---
 
-## 🛠️ Compétences techniques
+## Technical Skills
 
-**Langages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
@@ -32,7 +27,7 @@
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-**Data & Visualisation**
+**Data Analysis & Visualization**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
@@ -44,53 +39,53 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat&logoColor=white)
 
-**Bases de données**
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-**Outils**
+**Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat&logoColor=white)
 
 ---
 
-## 🚀 Projets phares
+## Projects
 
-### 🛡️ Face Anti-Spoofing — Swin Transformer + attaques adversariales
-> Fine-tuning d'un Swin Transformer sur LCC FASD · Robustesse sous attaques FGSM & PGD · Adversarial training
+### Face Anti-Spoofing — Swin Transformer & Adversarial Attacks
+Fine-tuning of a pre-trained Swin Transformer (ImageNet) on LCC FASD using 5 progressive transfer learning strategies. Robustness evaluation under FGSM and PGD adversarial attacks with adversarial training to harden the biometric system.
 
 `Python` `Computer Vision` `Adversarial ML` `Kaggle GPU`
 
 ---
 
-### 🖼️ Système de Captioning d'Images — Deep Learning
-> Modèle multimodal CV + NLP · Architecture ResNet50 + LSTM · Déploiement Gradio · Évaluation BLEU Score
+### Image Captioning System — Deep Learning
+Multimodal model combining Computer Vision and NLP for automatic image description generation. ResNet50 + LSTM architecture with optimized pipeline (tokenization, padding, GPU). Deployed as an interactive Gradio app, evaluated with BLEU score.
 
 `Python` `TensorFlow` `Keras` `ResNet50` `LSTM` `NLP` `Gradio`
 
 ---
 
-### 🫀 Prédiction des Maladies Cardiovasculaires
-> Pipeline ML complet · Feature engineering · LightGBM · Interface web Flask/React
+### Cardiovascular Disease Prediction
+End-to-end ML pipeline on medical data: cleaning, feature engineering, class imbalance handling, and model comparison. LightGBM selected as best model, deployed via a Flask/React web interface.
 
 `Python` `Pandas` `Scikit-learn` `LightGBM` `Flask` `React`
 
 ---
 
-### 🤟 Détection Langue des Signes en Temps Réel
-> Dataset custom · MediaPipe Holistic · Modèle LSTM · Reconnaissance temps réel via caméra
+### Real-Time Sign Language Detection
+Custom dataset built from manual video capture per gesture class. MediaPipe Holistic for body landmark extraction. LSTM model trained for temporal sequence classification, integrated into a desktop app with live camera recognition.
 
 `Python` `OpenCV` `MediaPipe` `TensorFlow` `Keras`
 
 ---
 
-## 💼 Expériences
+## Experience
 
-| Période | Rôle | Entreprise |
+| Period | Role | Company |
 |---|---|---|
 | 07–08/2025 | Data Analyst | Ciments du Maroc · Heidelberg Materials |
 | 05–06/2025 | AI Developer | LIADTech |
@@ -98,7 +93,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyaBahraoui&show_icons=true&theme=default&hide_border=true" height="150"/>
@@ -107,15 +102,17 @@
 
 ---
 
-## 📬 Me contacter
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aya-bahraoui-66937927a">
     <img src="https://img.shields.io/badge/LinkedIn-Aya_Bahraoui-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="mailto:bahraouiaya71@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-bahraouiaya71-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://github.com/AyaBahraoui">
     <img src="https://img.shields.io/badge/GitHub-AyaBahraoui-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>

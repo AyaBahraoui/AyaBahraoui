@@ -8,7 +8,7 @@
 
 I am a second-year engineering student specializing in Data Science, Big Data and Artificial Intelligence at ENSIASD. My work focuses on building end-to-end machine learning pipelines, computer vision systems, and deploying AI applications on real-world problems.
 
-Currently looking for a 2–3 month internship in AI or Data Science.
+
 
 ---
 

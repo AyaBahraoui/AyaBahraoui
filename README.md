@@ -1,5 +1,5 @@
 <h1 align="center">Aya BAHRAOUI</h1>
-<h3 align="center">Engineering Student — Data Science · Big Data · Artificial Intelligence</h3>
+<h3 align="center">Data Science & AI Engineering Student | Machine Learning Engineer | Data Analytics & BI</h3>
 <p align="center">ENSIASD · Taroudant, Morocco</p>
 
 ---
